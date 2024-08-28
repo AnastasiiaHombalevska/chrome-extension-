@@ -34,6 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [@GitHub](https://github.com/AnastasiiaHombalevska/chrome-extensions)
+- Live Site URL: [@GitHub](https://silly-monstera-811fb6.netlify.app)
 
 ### How to install
 
