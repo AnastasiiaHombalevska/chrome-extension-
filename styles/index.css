@@ -50,18 +50,32 @@ body {
   color: #5f9341;
 }
 
+/* .delete-item-btn {
+  height: 20px;
+  color: red;
+  background-color: #fff;
+  font-size: 8px;
+  text-transform: lowercase;
+  padding: 2px 5px;
+  border-radius: 5px;
+  border: 1px solid red;
+} */
+
 .ul-el {
   margin-top: 20px;
   list-style: none;
   padding-left: 0;
 }
 
-li {
+.li-item {
   margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
 }
 
-a {
+.list-link {
   color: #5f9341;
+  text-decoration: none;
 }
 
 @media (min-width: 400px) {
