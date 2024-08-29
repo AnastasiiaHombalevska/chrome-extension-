@@ -1,6 +1,6 @@
 # Scrimba - Chrome extension leads tracker solution
 
-This is a solution to the [Chrome extension leads tracker project on Scrimba](https://scrimba.com/learn/learnjavascript/). Scrimba helps you improve your coding skills by building realistic projects.
+Scrimba helps you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./screenshots/screenshot.png)
+![screenshot](./chrome-ext-img.png)
 
 ### Links
 
